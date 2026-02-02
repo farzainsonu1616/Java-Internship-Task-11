@@ -1,0 +1,8 @@
+This file describes the screenshots included for the
+File Handling – User Data Storage System task.
+
+The screenshots show user data being written to and read
+from a text file using Java File, FileWriter, BufferedWriter,
+FileReader, and BufferedReader classes.
+
+Included as part of Java Internship task submission.
